@@ -11,7 +11,6 @@ Programming Language: C#
 <img width="775" height="426" alt="Embodied" src="https://github.com/user-attachments/assets/9ea68c68-1cc0-44b8-9b31-e361be24183f" />
 
 # Project Overview
-YouTube playthrough: https://youtu.be/2o_GEyGGuZM
 
 This project explores how bodily movement qualities can be used as input for an interactive digital environment. Instead of directly mapping positional tracking or gestures to interaction, the system interprets webcam-derived movement through simplified movement descriptors inspired by Laban Movement Analysis (LMA), specifically the Effort dimensions of Weight, Time, and Flow.
 
@@ -20,6 +19,9 @@ The prototype creates an action–perception loop in which the user continuously
 The system was implemented in Unity using webcam frame differencing to estimate movement intensity and abruptness in real time.
 
 ---
+## Demonstration Video
+
+https://youtu.be/2o_GEyGGuZM
 
 # Main Reference
 
