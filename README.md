@@ -149,8 +149,6 @@ A major challenge in the project was balancing responsiveness and stability. If 
 
 Another important limitation is that webcam frame differencing only provides low-level movement information. The system therefore cannot perform full Laban Movement Analysis or understand movement semantically. Instead, it approximates movement qualities computationally.
 
-Despite these limitations, the prototype demonstrates how embodied movement qualities can function as interaction input and how LMA-inspired concepts can inform the design of interactive systems.
-
 ---
 
 # Demonstration
