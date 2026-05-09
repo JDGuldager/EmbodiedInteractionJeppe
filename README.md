@@ -8,6 +8,8 @@ Software: Unity
 Programming Language: C#  
 
 ---
+<img width="775" height="426" alt="Embodied" src="https://github.com/user-attachments/assets/9ea68c68-1cc0-44b8-9b31-e361be24183f" />
+---
 
 # Project Overview
 YouTube playthrough: https://youtu.be/2o_GEyGGuZM
