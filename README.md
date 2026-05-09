@@ -175,9 +175,11 @@ The prototype demonstration includes:
 
 # Additional References
 
-- Laban Movement Analysis
-- Embodied Interaction theory
-- Action–Perception Coupling
+- Laban Movement Analysis:
+  https://en.wikipedia.org/wiki/Laban_movement_analysis
+- Embodied Interaction theory from the course
+- Action–Perception Coupling:
+  https://www.researchgate.net/publication/247807926_Forward-Looking_Aspects_of_Perception-Action_Coupling_as_a_Basis_for_Embodied_Communication
 - Course repository:  
   https://github.com/SMC-AAU-CPH/smc8-courses-embodied-lma-github
 
