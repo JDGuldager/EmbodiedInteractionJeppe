@@ -10,6 +10,7 @@ Programming Language: C#
 ---
 
 # Project Overview
+YouTube playthrough: https://youtu.be/2o_GEyGGuZM
 
 This project explores how bodily movement qualities can be used as input for an interactive digital environment. Instead of directly mapping positional tracking or gestures to interaction, the system interprets webcam-derived movement through simplified movement descriptors inspired by Laban Movement Analysis (LMA), specifically the Effort dimensions of Weight, Time, and Flow.
 
@@ -190,6 +191,4 @@ The prototype demonstration includes:
 Include:
 - Unity project files
 - Source code
-- Images/screenshots
-- Demo video
 - PDF export of this page for Digital Exam submission
