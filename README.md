@@ -3,7 +3,7 @@
 
 ### Embodied Interaction Mini Project  
 Course: Embodied Interaction  
-Author: *[Your Name]*  
+Author: *Jeppe Dahl Guldager*  
 Software: Unity  
 Programming Language: C#  
 
