@@ -1,5 +1,6 @@
 using UnityEngine;
 using TMPro;
+using UnityEngine.UI;
 
 public class WebcamMovementController : MonoBehaviour
 {
@@ -10,6 +11,9 @@ public class WebcamMovementController : MonoBehaviour
         Energetic,
         Sudden
     }
+
+    [Header("Webcam Preview")]
+    public RawImage webcamPreview;
 
     [Header("Sudden State Control")]
     public float suddenStateCooldown = 0.8f;
@@ -74,6 +78,11 @@ public class WebcamMovementController : MonoBehaviour
     {
         webcam = new WebCamTexture();
         webcam.Play();
+
+        if (webcamPreview != null)
+        {
+            webcamPreview.texture = webcam;
+        }
 
         if (sceneCamera != null)
         {
